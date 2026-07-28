@@ -1,6 +1,6 @@
 <!-- Banner Profil -->
 <p align="center">
-  <img src="bener.png" width="100%" alt="Banner Profil Hakkul Qoul" />
+  <img src="mybener.png" width="100%" alt="Banner Profil Hakkul Qoul" />
 </p>
 
 ---
