@@ -16,7 +16,7 @@
 ### 🌐 Showcase Portofolio Utama
 *Berikut adalah tampilan visual web portofolio interaktif saya yang sudah online:*
 
-[![Preview Portofolio](web.png)](https://tahuku.github.io/portofolio/)
+[![Preview Portofolio](websaya.png)](https://tahuku.github.io/portofolio/)
 
 > **[🚀 Klik di sini untuk mengunjungi Web Portofolio Live](https://tahuku.github.io/portofolio/)**
 
