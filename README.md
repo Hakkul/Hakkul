@@ -3,7 +3,7 @@
   <img src="mybener.png" width="100%" alt="Banner Profil Hakkul Qoul" />
 </p>
 
----
+---  
 
 ### 💻 Halo, Saya Hakkul Qoul! 👋
 
@@ -12,11 +12,6 @@
 </p>
 
 ---
-
-### 🌐 Showcase Portofolio Utama
-*Berikut adalah tampilan visual web portofolio interaktif saya yang sudah online:*
-
-[![Preview Portofolio](websaya.png)](https://tahuku.github.io/portofolio/)
 
 > **[🚀 Klik di sini untuk mengunjungi Web Portofolio Live](https://tahuku.github.io/portofolio/)**
 
