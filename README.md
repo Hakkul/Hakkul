@@ -8,7 +8,7 @@
 ### 💻 Halo, Saya Hakkul Qoul! 👋
 
 <p align="left">
-  <i>Mahasiswa Teknik Informatika di UYP yang antusias dalam eksplorasi kode, pengembangan perangkat lunak, dan menciptakan solusi kreatif.</i>
+  <i>Mahasiswa Teknik Informatika di UYP yang antusias dalam eksplorasi kode, dan siap belajar hal baru dan menciptakan solusi kreatif.</i>
 </p>
 
 ---
