@@ -8,7 +8,11 @@
 ### 💻 Halo, Saya Hakkul Qoul! 👋
 
 <p align="left">
-  <i>Mahasiswa Teknik Informatika di UYP yang antusias dalam eksplorasi kode, dan siap belajar hal baru dan menciptakan solusi kreatif.</i>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=b19cd9&center=false&vCenter=true&width=550&lines=Mahasiswa+Teknik+Informatika+di+UYP+%F0%9F%8E%93;Antusias+dalam+eksplorasi+kode+%F0%9F%92%BB;Siap+belajar+hal+baru+dan+menciptakan+solusi+kreatif+%E2%9C%A8" alt="Typing SVG" /></a>
+</p>
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -19,18 +23,71 @@
 
 ### 📂 Proyek & Eksplorasi Kode
 
-#### 🌟 Web Development
-* **[portofolio](https://github.com/TAHUKU/portofolio):** Website portofolio pribadi untuk menampilkan profil, keahlian, dan daftar proyek.
-
-#### 🐍 Python & Computer Vision
-* **[Finger Detector](https://github.com/TAHUKU/finger-detector.git):** Aplikasi desktop untuk deteksi jari interaktif berbasis Python.
-* **[Visual Paint](https://github.com/TAHUKU/visual-paint.git):** Aplikasi desktop kreatif untuk menggambar secara virtual menggunakan gerakan tangan.
-* **[Photobooth](https://github.com/TAHUKU/photobooth.git):** Aplikasi photobooth berbasis komputer vision yang seru dan fungsional.
+<table width="100%" style="border-collapse: collapse;">
+  <tr bgcolor="#1e1b2e">
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">🌟 Web Development</h4>
+      <p align="center">
+        <a href="https://github.com/TAHUKU/portofolio">
+          <img src="https://img.shields.io/badge/Portofolio-Website_Pribadi-6b21a8?style=for-the-badge&logo=github&logoColor=white" alt="Portofolio" />
+        </a>
+      </p>
+      <p align="center">Website portofolio pribadi untuk menampilkan profil, keahlian, dan daftar proyek interaktif.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">🖐️ Finger Detector</h4>
+      <p align="center">
+        <a href="https://github.com/TAHUKU/finger-detector.git">
+          <img src="https://img.shields.io/badge/Finger_Detector-Desktop_App-6b21a8?style=for-the-badge&logo=python&logoColor=white" alt="Finger Detector" />
+        </a>
+      </p>
+      <p align="center">Aplikasi desktop untuk deteksi jari interaktif secara real-time berbasis Python.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr bgcolor="#1e1b2e">
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">🎨 Visual Paint</h4>
+      <p align="center">
+        <a href="https://github.com/TAHUKU/visual-paint.git">
+          <img src="https://img.shields.io/badge/Visual_Paint-Virtual_Drawing-6b21a8?style=for-the-badge&logo=python&logoColor=white" alt="Visual Paint" />
+        </a>
+      </p>
+      <p align="center">Aplikasi desktop kreatif untuk menggambar secara virtual menggunakan gerakan tangan.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-00A67E?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">📸 Photobooth</h4>
+      <p align="center">
+        <a href="https://github.com/TAHUKU/photobooth.git">
+          <img src="https://img.shields.io/badge/Photobooth-CV_App-6b21a8?style=for-the-badge&logo=python&logoColor=white" alt="Photobooth" />
+        </a>
+      </p>
+      <p align="center">Aplikasi photobooth berbasis komputer vision yang seru, interaktif, dan fungsional.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -41,5 +98,10 @@
 ---
 
 ### 📬 Mari Terhubung
-* 📧 **Email:** hakkullqoull@gmail.com
-* 🌐 **Website:** [tahuku.github.io/portofolio](https://tahuku.github.io/portofolio/)
+<p align="left">
+  <a href="mailto:hakkullqoull@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tahuku.github.io/portofolio/"><img src="https://img.shields.io/badge/Website-581c87?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
+</p>
+
+---
+
