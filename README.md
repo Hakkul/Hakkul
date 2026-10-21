@@ -10,10 +10,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=b19cd9&center=false&vCenter=true&width=550&lines=Mahasiswa+Teknik+Informatika+di+UYP+%F0%9F%8E%93;Antusias+dalam+eksplorasi+kode+%F0%9F%92%BB;Siap+belajar+hal+baru+dan+menciptakan+solusi+kreatif+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
 
 ---
 
@@ -97,11 +93,19 @@
 
 ---
 
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TAHUKU&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
 ### 📬 Mari Terhubung
 <p align="left">
   <a href="mailto:hakkullqoull@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://tahuku.github.io/portofolio/"><img src="https://img.shields.io/badge/Website-581c87?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
 </p>
-
----
-
