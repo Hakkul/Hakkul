@@ -93,14 +93,15 @@
 
 ---
 
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TAHUKU&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=6b21a8&title_color=FFFFFF&text_color=b19cd9&bg_color=1e1b2e&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
-
 ### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TAHUKU&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
+    <a href="https://github.com/TAHUKU">
+    <img height="180em" src="https://streak-stats.demolab.com?user=TAHUKU&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/TAHUKU">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TAHUKU&layout=compact&card_width=400&theme=dark&hide_border=false&border_color=6b21a8&title_color=FFFFFF&text_color=b19cd9&bg_color=1e1b2e&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
