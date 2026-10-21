@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://snake.platane.workers.dev/TAHUKU/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/TAHUKU/portofolio/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
