@@ -82,14 +82,35 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-</p>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Database & OS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Specialty & Git</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,7 +119,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TAHUKU&layout=compact&card_width=380&theme=dark&hide_border=false&border_color=6b21a8&title_color=FFFFFF&text_color=b19cd9&bg_color=1e1b2e&custom_title=Top%20Languages" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAHUKU&layout=compact&theme=dark&bg_color=1e1b2e&title_color=ffffff&text_color=b19cd9&border_color=6b21a8&hide_border=false" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://streak-stats.demolab.com?user=TAHUKU&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
@@ -109,6 +130,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TAHUKU/TAHUKU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
+
+---
 
 ### 📬 Mari Terhubung
 <p align="left">
