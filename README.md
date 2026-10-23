@@ -22,6 +22,20 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr bgcolor="#1e1b2e">
     <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">🔐 Auth & User Management</h4>
+      <p align="center">
+        <a https://github.com/TAHUKU/Conent_to_mysql.git">
+          <img src="https://img.shields.io/badge/User_Auth-Web_App-6b21a8?style=for-the-badge&logo=php&logoColor=white" alt="User Management System" />
+        </a>
+      </p>
+      <p align="center">Sistem autentikasi multi-role (Admin/User), manajemen akun, keamanan sesi 30 menit, dan notifikasi SweetAlert2.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
       <h4 align="center">🌟 Web Development</h4>
       <p align="center">
         <a href="https://github.com/TAHUKU/portofolio">
@@ -32,9 +46,11 @@
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
+  </tr>
+  <tr bgcolor="#1e1b2e">
     <td width="50%" valign="top" style="padding: 15px;">
       <h4 align="center">🖐️ Finger Detector</h4>
       <p align="center">
@@ -48,8 +64,6 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr bgcolor="#1e1b2e">
     <td width="50%" valign="top" style="padding: 15px;">
       <h4 align="center">🎨 Visual Paint</h4>
       <p align="center">
@@ -63,6 +77,8 @@
         <img src="https://img.shields.io/badge/Computer_Vision-00A67E?style=flat-square&logo=openai&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr bgcolor="#1e1b2e">
     <td width="50%" valign="top" style="padding: 15px;">
       <h4 align="center">📸 Photobooth</h4>
       <p align="center">
@@ -75,6 +91,14 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <!-- Ruang Kosong / Ekstra Slot Proyek Berikutnya -->
+      <h4 align="center">🚀 More Coming Soon</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stay_Tuned-In_Development-3b0764?style=for-the-badge" alt="Coming Soon" />
+      </p>
+      <p align="center">Eksplorasi proyek baru sedang dalam tahap pengerjaan dan pengembangan.</p>
     </td>
   </tr>
 </table>
@@ -125,9 +149,16 @@
       <img src="https://streak-stats.demolab.com?user=TAHUKU&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
     </td>
   </tr>
+  <tr bgcolor="#1e1b2e">
+    <td colspan="2" align="center" style="padding: 15px;">
+      <h4 align="center" style="margin-bottom: 10px;">📈 Comprehensive GitHub Metrics</h4>
+      <img src="./metrics.svg" alt="GitHub Metrics" width="98%" />
+    </td>
+  </tr>
 </table>
 
-<p align="center">
+<!-- GitHub Snake Animation -->
+<p align="center" style="margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/TAHUKU/TAHUKU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
