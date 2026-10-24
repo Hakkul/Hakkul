@@ -126,7 +126,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 
 <table width="100%">
   <tr>
-    <td align="center" width="130"><b>Languages</b></td>
+    <td align="center" width="150"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -137,14 +137,31 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><b>Database & OS</b></td>
+    <td align="center" width="150"><b>Text Editor</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+   <tr>
+    <td align="center" width="150"><b>AI Agents & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cline-5B5BD6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+      <img src="https://img.shields.io/badge/9router-1E293B?style=for-the-badge&logo=probot&logoColor=white" />
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Database & OS</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><b>Specialty & Git</b></td>
+    <td align="center" width="150"><b>Specialty & Git</b></td>
     <td>
       <img src="https://img.shields.io/badge/Artificial_Intelligence-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
