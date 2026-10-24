@@ -168,6 +168,21 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
   </tr>
 </table>
 
+  ---
+
+## 🎓 Perjalanan Akademik & Tugas Akhir
+
+| Semester | Proyek / Tugas Akhir | Tech Stack | Repositori |
+| :---: | :--- | :---: | :---: |
+| **Semester 1** | **Sistem Pendaftaran Kampus**<br>Aplikasi manajemen dan pendaftaran mahasiswa berbasis CLI/Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem1) |
+| **Semester 2** | **Aplikasi Web Filtering & Sorting Data**<br>Sistem pengolahan data min. 100 data dengan fitur pencarian dan pengurutan interaktif. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem2) |
+| **Semester 3** | ⏳ *Coming Soon* | - | `-` |
+| **Semester 4** | ⏳ *Coming Soon* | - | `-` |
+| **Semester 5** | ⏳ *Coming Soon* | - | `-` |
+| **Semester 6** | ⏳ *Coming Soon* | - | `-` |
+| **Semester 7** | ⏳ *Coming Soon* | - | `-` |
+| **Semester 8** | ⏳ *Coming Soon* | - | `-` |
+
 <!-- GitHub Snake Animation -->
 <p align="center" style="margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/TAHUKU/TAHUKU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
