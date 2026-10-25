@@ -143,7 +143,6 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
     </td>
   </tr>
   <tr>
-   <tr>
     <td align="center" width="150"><b>AI Agents & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -152,12 +151,12 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
       <img src="https://img.shields.io/badge/9router-1E293B?style=for-the-badge&logo=probot&logoColor=white" />
     </td>
   </tr>
-  </tr>
   <tr>
     <td align="center" width="150"><b>Database & OS</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -192,7 +191,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 | Semester | Proyek / Tugas Akhir | Tech Stack | Repositori |
 | :---: | :--- | :---: | :---: |
 | **Semester 1** | **Sistem Pendaftaran Kampus**<br>Aplikasi manajemen dan pendaftaran mahasiswa berbasis CLI/Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem1) |
-| **Semester 2** | **Aplikasi Web Filtering & Sorting Data**<br>Sistem pengolahan data min. 100 data dengan fitur pencarian dan pengurutan interaktif. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem2) |
+| **Semester 2** | **Aplikasi Web Filtering & Sorting Data**<br>Aplikasi web pengolahan data min. 100 data dengan fitur pencarian dan pengurutan interaktif menggunakan Streamlit. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem2) |
 | **Semester 3** | ⏳ *Coming Soon* | - | `-` |
 | **Semester 4** | ⏳ *Coming Soon* | - | `-` |
 | **Semester 5** | ⏳ *Coming Soon* | - | `-` |
