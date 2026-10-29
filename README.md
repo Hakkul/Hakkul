@@ -15,8 +15,6 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 
 ---
 
-> **[🚀 Klik di sini untuk mengunjungi Web Portofolio Live](https://tahuku.github.io/portofolio/)**
-
 ### 📂 Proyek & Eksplorasi Kode
 
 <table width="100%" style="border-collapse: collapse;">
