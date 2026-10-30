@@ -15,6 +15,8 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 
 ---
 
+> **[🚀 Klik di sini untuk mengunjungi Web Portofolio Live](https://Hakkul.github.io/portofolio/)**
+
 ### 📂 Proyek & Eksplorasi Kode
 
 <table width="100%" style="border-collapse: collapse;">
@@ -31,7 +33,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://github.com/TAHUKU/Conent_to_mysql.git">
+        <a href="https://github.com/Hakkul/Conent_to_mysql.git">
           <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
@@ -48,10 +50,10 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://tahuku.github.io/portofolio/">
+        <a href="https://Hakkul.github.io/portofolio/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-581c87?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
-        <a href="https://github.com/TAHUKU/portofolio">
+        <a href="https://github.com/Hakkul/portofolio">
           <img src="https://img.shields.io/badge/📂_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
@@ -69,7 +71,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TAHUKU/finger-detector.git">
+        <a href="https://github.com/Hakkul/finger-detector.git">
           <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
@@ -85,7 +87,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
         <img src="https://img.shields.io/badge/Computer_Vision-00A67E?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TAHUKU/visual-paint.git">
+        <a href="https://github.com/Hakkul/visual-paint.git">
           <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
@@ -103,7 +105,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TAHUKU/photobooth.git">
+        <a href="https://github.com/Hakkul/photobooth.git">
           <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
@@ -167,29 +169,34 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
   </tr>
 </table>
    
----
-
 ### 📊 GitHub Activity & Stats
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkul&layout=compact&theme=dark&bg_color=1e1b2e&title_color=ffffff&text_color=b19cd9&border_color=6b21a8&hide_border=false" alt="Top Languages" />
+    <td width="50%" align="center" valign="middle" style="padding: 10px;">
+      <h4 align="center" style="margin-bottom: 15px;">💻 Core Languages</h4>
+      <p align="center" style="line-height: 2;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle" style="padding: 15px;">
       <img src="https://streak-stats.demolab.com?user=Hakkul&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
   ---
 
 ## 🎓 Perjalanan Akademik & Tugas Akhir
 
 | Semester | Proyek / Tugas Akhir | Tech Stack | Repositori |
 | :---: | :--- | :---: | :---: |
-| **Semester 1** | **Sistem Pendaftaran Kampus**<br>Aplikasi manajemen dan pendaftaran mahasiswa berbasis CLI/Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem1) |
-| **Semester 2** | **Aplikasi Web Filtering & Sorting Data**<br>Aplikasi web pengolahan data min. 100 data dengan fitur pencarian dan pengurutan interaktif menggunakan Streamlit. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | [🔗 Lihat Kode](https://github.com/TAHUKU/task_sem2) |
+| **Semester 1** | **Sistem Pendaftaran Kampus**<br>Aplikasi manajemen dan pendaftaran mahasiswa berbasis CLI/Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [🔗 Lihat Kode](https://github.com/Hakkul/task_sem1) |
+| **Semester 2** | **Aplikasi Web Filtering & Sorting Data**<br>Aplikasi web pengolahan data min. 100 data dengan fitur pencarian dan pengurutan interaktif menggunakan Streamlit. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | [🔗 Lihat Kode](https://github.com/Hakkul/task_sem2) |
 | **Semester 3** | ⏳ *Coming Soon* | - | `-` |
 | **Semester 4** | ⏳ *Coming Soon* | - | `-` |
 | **Semester 5** | ⏳ *Coming Soon* | - | `-` |
@@ -199,7 +206,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 
 <!-- GitHub Snake Animation -->
 <p align="center" style="margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/TAHUKU/TAHUKU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Hakkul/Hakkul/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -207,5 +214,5 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 ### 📬 Mari Terhubung
 <p align="left">
   <a href="mailto:hakkullqoull@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tahuku.github.io/portofolio/"><img src="https://img.shields.io/badge/Website-581c87?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="https://Hakkul.github.io/portofolio/"><img src="https://img.shields.io/badge/Website-581c87?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
 </p>
