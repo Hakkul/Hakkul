@@ -174,7 +174,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAHUKU&layout=compact&theme=dark&bg_color=1e1b2e&title_color=ffffff&text_color=b19cd9&border_color=6b21a8&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkul&layout=compact&theme=dark&bg_color=1e1b2e&title_color=ffffff&text_color=b19cd9&border_color=6b21a8&hide_border=false" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://streak-stats.demolab.com?user=Hakkul&theme=dark&background=1e1b2e&ring=6b21a8&fire=b19cd9&currStreakNum=ffffff" alt="GitHub Streak" />
