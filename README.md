@@ -111,12 +111,35 @@ Saya adalah mahasiswa **Teknik Informatika** di **Universitas Yudharta Pasuruan*
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
+      <h4 align="center">🗣️ SpeekUp</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SpeekUp-Web_App-6b21a8?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="SpeekUp" />
+      </p>
+      <p align="center"> Web ini tentang pembelajaran bahasa inggris tingkat lanjut mulai dari umum sampai dengan perkuliahan yang dimana di dalamnya ada fitur speekUp, Reading, dan write</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Auth-4285F4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://speek-up.vercel.app/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-581c87?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Hakkul/web_spekUp.git">
+          <img src="https://img.shields.io/badge/📂_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr bgcolor="#1e1b2e">
+    <td width="50%" valign="top" style="padding: 15px;">
       <h4 align="center">🚀 More Coming Soon</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Stay_Tuned-In_Development-3b0764?style=for-the-badge" alt="Coming Soon" />
       </p>
       <p align="center">Eksplorasi proyek baru sedang dalam tahap pengerjaan dan pengembangan.</p>
     </td>
+    <td width="50%" valign="top" style="padding: 15px;"></td>
   </tr>
 </table>
 
